@@ -18,11 +18,10 @@
 ### Connect with me:
 
 [<img align="left" alt="Profile | Facebook" width="22px" src="https://www.svgrepo.com/show/158427/facebook.svg" />](https://www.facebook.com/)
-[<img align="left" alt="Profile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/)
-
-[<img align="left" alt="Profile | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />](https://www.quora.com/profile/)
-[<img align="left" alt="Profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/)
-[<img align="left" alt="Profile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/)
+[<img align="left" alt="Profile | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />](https://twitter.com/)
+[<img align="left" alt="Profile | Quora" width="22px" src="https://www.svgrepo.com/show/25177/quora.svg" />](https://www.quora.com/profile/)
+[<img align="left" alt="Profile | LinkedIn" width="22px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />](https://www.linkedin.com/in/)
+[<img align="left" alt="Profile | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/)
 
 <br />
 <br />
