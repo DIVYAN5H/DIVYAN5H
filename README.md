@@ -29,7 +29,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />](#)
 [<img align="left" alt="HTML5" width="45px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />](#)
 [<img align="left" alt="CSS3" width="45px" src="https://img.icons8.com/color/48/000000/css3.png" />](#)
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
