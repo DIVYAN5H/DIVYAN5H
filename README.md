@@ -18,7 +18,7 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="Profile | Facebook" width="22px" src="https://www.svgrepo.com/show/158427/facebook.svg" />](https://www.facebook.com/) -->
-[![Twitter Badge]https://shields.io/badge/-Twitter-9cf?style=for-the-badge](https://twitter.com/OnePunc45659001)
+[![Twitter Badge](https://shields.io/badge/-Twitter-9cf?style=for-the-badge)](https://twitter.com/OnePunc45659001)
 [<img align="left" alt="Profile | LinkedIn" width="22px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />](https://www.linkedin.com/in/divyansh-verma-58591b218/)
 [<img align="left" alt="Profile | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />](https://twitter.com/OnePunc45659001)
 [<img align="left" alt="Profile | Quora" width="22px" src="https://www.svgrepo.com/show/25177/quora.svg" />](https://www.quora.com/profile/Divyansh-Verma-134)
