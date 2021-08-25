@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2021 Goals: Learn new stuff
+- 🥅 2021 Goals: Learning Blender and other skills
 - ⚡ Fun fact: I love to draw and watch anime
 
 <br />
