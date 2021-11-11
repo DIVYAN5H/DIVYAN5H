@@ -5,9 +5,9 @@
 
 <br />
 
-## I'm a Student and a Full-Stack Developer!!
+## I'm a Student and a Front-End Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Polishing skills
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2021 Goals: Learning Blender and other skills
 - ⚡ Fun fact: I love to draw and watch anime
