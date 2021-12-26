@@ -34,16 +34,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />](#)
-[<img align="left" alt="HTML5" width="45px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />](#)
-[<img align="left" alt="CSS3" width="45px" src="https://img.icons8.com/color/48/000000/css3.png" />](#)
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
-[<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](#)
-[<img align="left" alt="NextJs" width="40px" src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" />](#)
+[<img align="left" alt="Visual Studio Code" width="45px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />](#)
+[<img align="left" alt="HTML5" width="45px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />](#)
+[<img align="left" alt="CSS3" width="45px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />](#)
+[<img align="left" alt="JavaScript" width="45px" src="https://www.svgrepo.com/show/353925/javascript.svg" />](#)
+[<img align="left" alt="React" width="45px" src="https://www.svgrepo.com/show/303157/react-logo.svg" />](#)
+[<img align="left" alt="NextJs" width="45px" src="https://www.svgrepo.com/show/342062/next-js.svg" />](#)
 [<img align="left" alt="Tailwind" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />](#)
-[<img align="left" alt="Node.js" width="40px" src="https://th.bing.com/th/id/R.7ed5cbb6084f1addaf85e065ded6ada8?rik=WwciuNJ2CS0mkw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-png--400.png&ehk=Mtz%2fUWV%2bovf8RDBhVC2jLU1DIQcJW1P2yWR6DHEMU6I%3d&risl=&pid=ImgRaw&r=0" />](#)
-[<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](#)
-[<img align="left" alt="Firebase" width="30px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />](#)
+[<img align="left" alt="Node.js" width="45px" src="https://www.svgrepo.com/show/378837/node.svg" />](#)
+[<img align="left" alt="MongoDB" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](#)
+[<img align="left" alt="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />](#)
 [<img align="left" alt="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](#)
 
 <br />
