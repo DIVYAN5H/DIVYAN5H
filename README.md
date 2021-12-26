@@ -44,7 +44,7 @@
 [<img align="left" alt="Node.js" width="40px" src="https://th.bing.com/th/id/R.7ed5cbb6084f1addaf85e065ded6ada8?rik=WwciuNJ2CS0mkw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-png--400.png&ehk=Mtz%2fUWV%2bovf8RDBhVC2jLU1DIQcJW1P2yWR6DHEMU6I%3d&risl=&pid=ImgRaw&r=0" />](#)
 [<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](#)
 [<img align="left" alt="Firebase" width="30px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />](#)
-[<img align="left" alt="Firebase" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](#)
+[<img align="left" alt="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](#)
 
 <br />
 <br />
