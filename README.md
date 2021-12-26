@@ -38,12 +38,13 @@
 [<img align="left" alt="HTML5" width="45px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />](#)
 [<img align="left" alt="CSS3" width="45px" src="https://img.icons8.com/color/48/000000/css3.png" />](#)
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
-[<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](#)
+[<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](#)
 [<img align="left" alt="NextJs" width="40px" src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" />](#)
 [<img align="left" alt="Tailwind" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />](#)
 [<img align="left" alt="Node.js" width="40px" src="https://th.bing.com/th/id/R.7ed5cbb6084f1addaf85e065ded6ada8?rik=WwciuNJ2CS0mkw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-png--400.png&ehk=Mtz%2fUWV%2bovf8RDBhVC2jLU1DIQcJW1P2yWR6DHEMU6I%3d&risl=&pid=ImgRaw&r=0" />](#)
 [<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](#)
 [<img align="left" alt="Firebase" width="30px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />](#)
+[<img align="left" alt="Firebase" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](#)
 
 <br />
 <br />
