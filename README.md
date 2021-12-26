@@ -42,7 +42,7 @@
 [<img align="left" alt="Node.js" width="40px" src="https://th.bing.com/th/id/R.7ed5cbb6084f1addaf85e065ded6ada8?rik=WwciuNJ2CS0mkw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-png--400.png&ehk=Mtz%2fUWV%2bovf8RDBhVC2jLU1DIQcJW1P2yWR6DHEMU6I%3d&risl=&pid=ImgRaw&r=0" />]
 [<img align="left" alt="MongoDB" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />]
 [<img align="left" alt="NextJs" width="45px" src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" />]
-[<img align="left" alt="Tailwind" width="45px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />]
+[<img align="left" alt="Tailwind" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />]
 <br />
 <br />
 <br />
