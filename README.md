@@ -40,18 +40,9 @@
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Node.js" width="40px" src="https://th.bing.com/th/id/R.7ed5cbb6084f1addaf85e065ded6ada8?rik=WwciuNJ2CS0mkw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-png--400.png&ehk=Mtz%2fUWV%2bovf8RDBhVC2jLU1DIQcJW1P2yWR6DHEMU6I%3d&risl=&pid=ImgRaw&r=0" />]
-[<img align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="MongoDB" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />]
 [<img align="left" alt="NextJs" width="45px" src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" />]
 [<img align="left" alt="Tailwind" width="45px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />]
-
-<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()-->
-<!-- [<img align="left" alt="GitHub" width="40px" src="https://www.svgrepo.com/show/217753/github.svg" />](#) -->
-<!-- [<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](#) -->
 <br />
 <br />
 <br />
