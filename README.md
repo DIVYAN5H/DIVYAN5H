@@ -5,12 +5,12 @@
 
 <br />
 
-## I'm a Student and a Front-End Developer!!
+## I'm a Student and a Full-Stack Developer!!
 
 - 🌱 Polishing skills
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2021 Goals: Learning Blender and other skills
-- ⚡ Fun fact: I love to draw and watch anime
+- 🥅 2022 Goals: Buid a strong portfolio
+- ⚡ Fun fact: I love to watch anime
 
 <br />
 <br />
