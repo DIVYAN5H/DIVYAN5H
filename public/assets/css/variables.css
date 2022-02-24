@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Josefin+Sans&display=swap');
+
+:root {
+  --hue: 28;
+  --color: hsl(var(--hue), 73%, 62%);
+  --color2: hsl(var(--hue), 85%, 26%);
+}
+html{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}

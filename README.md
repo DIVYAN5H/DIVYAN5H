@@ -58,7 +58,7 @@
 <br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corpse-rar&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAN5H&theme=dark)
 
 <br />
 <br />
