@@ -1,64 +1,31 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Page Not Found</title>
 
-    <link rel="stylesheet" href="./assets/css/variables.css" />
-    <style>
-      body {
-        background: #e5e5e5;
-        font-family: 'DotGothic16', sans-serif;
-        margin: 0;
-        padding: 0;
-      }
-      #message {
-        background: white;
-        max-width: 360px;
-        margin: 100px auto 16px;
-        padding: 32px 24px 16px;
-        border-left: 5px solid var(--color);
-        border-radius: 3px;
-      }
-      #message h2 {
-        color: var(--color);
-        font-weight: bold;
-        font-size: 16px;
-        margin: 0 0 8px;
-      }
-      #message h1 {
-        font-size: 22px;
-        font-weight: 300;
-        color: rgba(0, 0, 0, 0.6);
-        margin: 0 0 16px;
-      }
-      #message p {
-        line-height: 140%;
-        margin: 16px 0 24px;
-        font-size: 14px;
-      }
-      #message{
-        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-      }
-      @media (max-width: 600px) {
-        body,
-        #message {
-          margin-top: 0;
-          background: white;
-          box-shadow: none;
-          border: none;
-        }
-        body {
-          border-top: 16px solid var(--color);
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <div id="message">
-      <h2>404</h2>
-      <h1>Nothing to see here</h1>
-    </div>
-  </body>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Page Not Found</title>
+
+  <link rel="stylesheet" href="./assets/css/variables.css" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="message">
+    <h1>Nothing to see here</h1>
+  </div>
+</body>
+
 </html>
