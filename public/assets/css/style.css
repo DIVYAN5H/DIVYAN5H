@@ -87,5 +87,17 @@ section.one {
 @media screen and (max-width: 992px) {
   .one {
     flex-direction: column;
+    height: max-content !important;
+  }
+  .left{
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .projects{
+    width: 65vw;
+    margin-bottom: 10vh;
   }
 }
