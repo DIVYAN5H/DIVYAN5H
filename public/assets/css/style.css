@@ -10,11 +10,11 @@ section.one {
 }
 .name {
   font-weight: bolder;
-  font-size: 3.3rem;
+  font-size: 55px;
 }
-.title{
+.title {
   color: var(--dark-gray);
-  font-size: 0.85rem;
+  font-size: 18px;
 }
 .links {
   justify-content: flex-start;
@@ -45,15 +45,20 @@ section.one {
 .project-title {
   text-align: center;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 23px;
   margin: 5px;
 }
-.project-cards{
+.project-cards {
   overflow-y: scroll;
   overflow-x: hidden;
-  padding-right: 10px;
   height: 70vh;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 }
+.project-cards::-webkit-scrollbar {
+  display: none;
+}
+
 .project-card {
   border: 2px solid var(--light-gray);
   border-radius: 15px;
@@ -63,22 +68,21 @@ section.one {
 .project-card div {
   margin-top: 10px;
 }
-.card-link {
-  color: var(--dark-gray);
-  text-decoration: underline;
-  font-size: 0.9rem;
+.card-title {
+  font-size: 18px;
 }
-.card-description{
-  font-size: 0.8rem;
+.card-description {
+  font-size: 14px;
 }
 .card-button {
-  font-size: 0.9rem;
+  margin-top: 10px;
+  font-size: 13px;
 }
-.card-button a{
+.card-button a {
   color: var(--white);
 }
 .card-button-logo {
-  width: 8px;
+  width: 7px;
 }
 @media screen and (max-width: 992px) {
   .one {

@@ -26,27 +26,6 @@ body {
   background: var(--black);
 }
 
-/* Width */
-::-webkit-scrollbar {
-  width: 8px;
-}
-/* Track */
-::-webkit-scrollbar-track {
-  border-radius: 5px;
-  background: var(--light-gray);
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  border-radius: 5px;
-  background: var(--dark-gray);
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(var(--dark-gray), var(--black), var(--dark-gray));
-}
-
 .flex {
   display: flex;
   justify-content: center;
