@@ -39,7 +39,7 @@
 [<img align="left" alt="CSS3" width="45px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />](#)
 [<img align="left" alt="JavaScript" width="45px" src="https://www.svgrepo.com/show/353925/javascript.svg" />](#)
 [<img align="left" alt="React" width="45px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />](#)
-[<img align="left" alt="NextJs" width="45px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />](#)
+[<img align="left" alt="NextJs" width="45px" src="https://nextjs.org/static/favicon/favicon-32x32.png" />](#)
 [<img align="left" alt="Tailwind" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />](#)
 [<img align="left" alt="Node.js" width="45px" src="https://www.svgrepo.com/show/378837/node.svg" />](#)
 [<img align="left" alt="MongoDB" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](#)
