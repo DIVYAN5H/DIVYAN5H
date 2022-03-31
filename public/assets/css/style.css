@@ -1,19 +1,87 @@
 section.one {
-  height: 90vh;
+  height: 100vh;
   width: 90vw;
   justify-content: space-around;
+  margin: auto;
 }
-.left div{
-    margin: 5px;
+.logo {
+  width: 20px;
+  margin: 15px 20px 15px 0px;
 }
 .name {
   font-weight: bolder;
-  font-size: 4rem;
+  font-size: 3.3rem;
 }
-i {
-  font-size: 1rem;
+.title{
+  color: var(--dark-gray);
+  font-size: 0.85rem;
 }
-.links a i{
-  font-size: 1.5rem;
-  margin: 0 10px 0 0;
+.links {
+  justify-content: flex-start;
+}
+.button {
+  justify-content: flex-start;
+  background-color: var(--black);
+  color: var(--white);
+  width: max-content;
+  padding: 3px 10px 7px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.button-logo {
+  width: 20px;
+  display: inline;
+  filter: invert(1);
+  margin-left: 5px;
+  transform: translateY(3px);
+}
+.projects {
+  height: 80vh;
+  width: 23vw;
+  border: 3px solid var(--dark-gray);
+  border-radius: 15px;
+  padding: 10px 10px;
+}
+.project-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin: 5px;
+}
+.project-cards{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding-right: 10px;
+  height: 70vh;
+}
+.project-card {
+  border: 2px solid var(--light-gray);
+  border-radius: 15px;
+  margin: 13px 0px;
+  padding: 10px;
+}
+.project-card div {
+  margin-top: 10px;
+}
+.card-link {
+  color: var(--dark-gray);
+  text-decoration: underline;
+  font-size: 0.9rem;
+}
+.card-description{
+  font-size: 0.8rem;
+}
+.card-button {
+  font-size: 0.9rem;
+}
+.card-button a{
+  color: var(--white);
+}
+.card-button-logo {
+  width: 8px;
+}
+@media screen and (max-width: 992px) {
+  .one {
+    flex-direction: column;
+  }
 }

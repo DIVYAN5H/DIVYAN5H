@@ -4,7 +4,7 @@
 <head>
 
   <!--=============== SEO / META ===============-->
-  <title>Divyan5h.dev</title>
+  <title>DIVYAN5H.dev</title>
   <meta name="description"
     content="Hello, I'm Divyansh a web developer with and this is my website as a portfolio to showcase my work.">
   <meta name="keywords"
@@ -12,6 +12,7 @@
   <meta name="author" content="Divyansh">
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="icon" href="./assets/images/code2.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 
@@ -21,34 +22,42 @@
 <body>
   <section class="one flex">
     <div class="left">
-      <div class="html-logo"><i class="fa-solid fa-code"></i></div>
+      <div class="logo"><img src="./assets/images/code.svg" alt=""></div>
       <h1 class="name">Hi,<br />I'm Divyansh</h1>
-      <div class="links">
-        <a href="https://github.com/DIVYAN5H" target="_blank">
-          <i class="fa-brands fa-github"></i>
-        </a>
-        <a href="https://www.linkedin.com/in/DIVYAN5H/" target="_blank">
-          <i class="fa-brands fa-linkedin-in"></i>
-        </a>
-        <a href="https://discord.com/users/751679062367535144" target="_blank">
-          <i class="fa-brands fa-discord"></i>
-        </a>
-        <a href="https://www.instagram.com/divyan5h.dev/" target="_blank">
-          <i class="fa-brands fa-instagram"></i>
-        </a>
+      <h3 class="title">A React Developer</h3>
+      <div class="links flex">
+        <div class="logo">
+          <a href="https://github.com/DIVYAN5H" target="_blank">
+            <img src="./assets/images/github.svg" alt="">
+          </a>
+        </div>
+        <div class="logo">
+          <a href="https://www.linkedin.com/in/DIVYAN5H/" target="_blank">
+            <img src="./assets/images/linkedin.svg" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="left-button button">
+        Download CV<img src="./assets/images/download.svg" alt="" class="button-logo">
       </div>
     </div>
     <div class="right">
-      <!-- <img src="" alt=""> -->
+      <div class="projects">
+        <div class="project-title">
+          Projects
+        </div>
+        <div class="project-cards" id="projectCards">
+        </div>
+      </div>
     </div>
   </section>
 </body>
 
-<script src="https://kit.fontawesome.com/face032ccc.js" crossorigin="anonymous">
-</script>
+
 <script src="https://www.gstatic.com/firebasejs/9.6.9/firebase-analytics.js"></script>
 <script>
   const analytics = getAnalytics(app);
 </script>
+<script src="./assets/js/main.js"></script>
 
 </html>

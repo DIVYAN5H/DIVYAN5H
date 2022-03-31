@@ -1,20 +1,59 @@
-@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Josefin+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=DotGothic16&family=Josefin+Sans&display=swap");
 
 :root {
-  --hue: 28;
-  --color: hsl(var(--hue), 73%, 62%);
-  --color2: hsl(var(--hue), 85%, 26%);
+  --white: rgb(231, 231, 231);
+  --black: rgb(11, 10, 12);
+  --light-gray: rgb(177, 177, 177);
+  --dark-gray: rgb(92, 92, 92);
 }
-html{
-  font-family: 'Josefin Sans', sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-.flex{
+body {
+  font-family: "Josefin Sans", sans-serif;
+  background-color: var(--white);
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: var(--white);
+  background: var(--black);
+}
+::selection {
+  color: var(--white);
+  background: var(--black);
+}
+
+/* Width */
+::-webkit-scrollbar {
+  width: 8px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background: var(--light-gray);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background: var(--dark-gray);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(var(--dark-gray), var(--black), var(--dark-gray));
+}
+
+.flex {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-a{
+a {
   text-decoration: none;
   color: black;
 }
