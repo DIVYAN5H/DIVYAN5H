@@ -24,10 +24,10 @@
 <!-- [![Twitter Badge](https://shields.io/badge/-Instagram-5a5a5a?logo=instagram&style=for-the-badge)](https://www.instagram.com/) -->
 <!-- [![Twitter Badge](https://shields.io/badge/-myanimelist-5a5a5a?logo=myanimelist&logoColor=3366CC&style=for-the-badge)](https://myanimelist.net/animelist/Corpse_rar) -->
 [<img align="left" alt="Profile | LinkedIn" width="22px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />](https://www.linkedin.com/in/divyan5h/)
-[<img align="left" alt="Profile | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/corpse.rar/)
-[<img align="left" alt="Profile | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />](https://twitter.com/DIVYAN5H_)
+[<img align="left" alt="Profile | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/divyan5h.dev/)
+[<img align="left" alt="Profile | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />](https://twitter.com/DIVYAN5H_dev)
 <!-- [<img align="left" alt="Profile | Quora" width="22px" src="https://www.svgrepo.com/show/25177/quora.svg" />](https://www.quora.com/profile/Divyansh-Verma-134) -->
-[<img align="left" alt="Profile | AnimeList" width="22px" src="https://www.svgrepo.com/show/331489/myanimelist.svg" />](https://myanimelist.net/animelist/Corpse_rar)
+<!-- [<img align="left" alt="Profile | AnimeList" width="22px" src="https://www.svgrepo.com/show/331489/myanimelist.svg" />](https://myanimelist.net/animelist/Corpse_rar) -->
 
 <br />
 <br />
@@ -39,7 +39,7 @@
 [<img align="left" alt="CSS3" width="45px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />](#)
 [<img align="left" alt="JavaScript" width="45px" src="https://www.svgrepo.com/show/353925/javascript.svg" />](#)
 [<img align="left" alt="React" width="45px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />](#)
-[<img align="left" alt="NextJs" width="45px" src="https://www.svgrepo.com/show/342062/next-js.svg" />](#)
+[<img align="left" alt="NextJs" width="45px" src="https://nextjs.org/static/favicon/favicon-32x32.png" />](#)
 [<img align="left" alt="Tailwind" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />](#)
 [<img align="left" alt="Node.js" width="45px" src="https://www.svgrepo.com/show/378837/node.svg" />](#)
 [<img align="left" alt="MongoDB" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](#)
