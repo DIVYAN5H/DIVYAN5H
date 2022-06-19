@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "divyan5h"
-  }
+    "default": "divyan5h",
+    "divyan5h": "divyan5h"
+  },
+  "targets": {}
 }

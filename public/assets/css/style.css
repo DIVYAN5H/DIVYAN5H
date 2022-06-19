@@ -77,6 +77,7 @@ section.one {
 .card-button {
   margin-top: 10px;
   font-size: 13px;
+  padding: 5px 10px;
 }
 .card-button a {
   color: var(--white);
