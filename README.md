@@ -5,7 +5,7 @@
 
 <br />
 
-## I'm a Student and a Full-Stack Developer!!
+## I'm a Student and a Web Developer!!
 
 - 🌱 Polishing skills
 - 👯 I’m looking to collaborate with other creators
