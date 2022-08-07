@@ -5,7 +5,7 @@
 
 <br />
 
-## I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&size=22&duration=3000&lines=Divyansh!!;a+student!!;a+Web+developer!!)](https://git.io/typing-svg)
+## I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&size=22&duration=3000&vCenter=true&height=22&lines=Divyansh;a+student;a+Web+developer)](https://git.io/typing-svg)
 
 - 🌱 Polishing skills
 - 👯 Looking to collaborate with other creators
