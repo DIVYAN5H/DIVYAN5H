@@ -9,7 +9,7 @@
 
 - 🌱 Polishing skills
 - 👯 Looking to collaborate with other creators
-- 🥅 2022 Goals: Build a strong portfolio
+- 🥅 2023 Goals: Build a strong portfolio
 - ⚡ Fun fact: I love to watch anime
 
 <br />
